@@ -12,7 +12,7 @@ We love your input! We want to make contributing to this project as easy and tra
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 1. Fork the repo and create your branch from `main`.
-2. Make changes that contribute to the `root/Utilities` directory.
+2. Make changes that contribute to the `root/Utility` directory.
 3. Issue that pull request!
 
 ## Any contributions you make will be under the MIT Software License
